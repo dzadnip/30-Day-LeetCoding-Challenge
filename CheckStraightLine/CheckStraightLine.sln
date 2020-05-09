@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckStraightLine", "CheckStraightLine\CheckStraightLine.csproj", "{10A8B4C8-1A9E-4F0A-A52F-AB0DC3C69BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{8AE2F30C-50C5-4ABD-B57C-814EF650203E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A8B4C8-1A9E-4F0A-A52F-AB0DC3C69BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A8B4C8-1A9E-4F0A-A52F-AB0DC3C69BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A8B4C8-1A9E-4F0A-A52F-AB0DC3C69BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A8B4C8-1A9E-4F0A-A52F-AB0DC3C69BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE2F30C-50C5-4ABD-B57C-814EF650203E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE2F30C-50C5-4ABD-B57C-814EF650203E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE2F30C-50C5-4ABD-B57C-814EF650203E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE2F30C-50C5-4ABD-B57C-814EF650203E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96EF602F-D258-471F-ADA3-670F27416B0F}
+	EndGlobalSection
+EndGlobal
