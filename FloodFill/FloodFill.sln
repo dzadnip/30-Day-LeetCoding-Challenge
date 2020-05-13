@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodFill", "FloodFill\FloodFill.csproj", "{6F51A466-0BD7-4A04-9DFE-0A45008B34C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodFillUnitTest", "FloodFillUnitTest\FloodFillUnitTest.csproj", "{4FEED8D5-AA56-41DF-A024-54CE0B374460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F51A466-0BD7-4A04-9DFE-0A45008B34C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F51A466-0BD7-4A04-9DFE-0A45008B34C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F51A466-0BD7-4A04-9DFE-0A45008B34C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F51A466-0BD7-4A04-9DFE-0A45008B34C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEED8D5-AA56-41DF-A024-54CE0B374460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEED8D5-AA56-41DF-A024-54CE0B374460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEED8D5-AA56-41DF-A024-54CE0B374460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEED8D5-AA56-41DF-A024-54CE0B374460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0C665D-F242-4157-B96F-8C0813B179FF}
+	EndGlobalSection
+EndGlobal
